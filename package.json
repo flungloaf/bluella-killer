@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0",
     "jimp": "^0.10.1",
     "ts-node": "^8.8.2"
   },
