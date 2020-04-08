@@ -1,0 +1,11 @@
+{
+  "name": "bluella-killer",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.10.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
